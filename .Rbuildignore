@@ -1,0 +1,17 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^.*\.txt$
+^.*\.bib$
+^.*\.ini$
+^.*\.md$
+^.*\.RData$
+^.*\.jar
+^.*\.net
+^.*\.csv
+^.*\.xml
+LICENCE.*$
+^README\.Rmd$       # An Rmd file used to generate README.md
+Rubbish
+^_gh-pages$
+^bibliometrixData\.Rproj$
+^LICENSE\.md$

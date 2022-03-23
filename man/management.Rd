@@ -4,7 +4,7 @@
 \alias{management}
 \title{The use of bibliometric approaches in business and management disciplines.}
 \format{
-A data frame with 449 rows and 66 variables:
+A data frame with 889 rows and 70 variables:
 \describe{
 \item{PT}{Publication Type (J=Journal; B=Book; S=Series; P=Patent)}
 \item{AU}{Author names}
@@ -49,8 +49,6 @@ A data frame with 449 rows and 66 variables:
 \item{DA}{Date this collection was downloaded}
 \item{ER}{End of Record}
 \item{OI}{ORCID Identifier}
-\item{HC}{ESI Highly Cited Paper}
-\item{HP}{ESI Hot Paper}
 \item{RI}{ResearcherID Number}
 \item{OA}{Open Access Indicator}
 \item{SI}{Special Issue}
@@ -66,19 +64,25 @@ A data frame with 449 rows and 66 variables:
 \item{BE}{Editors}
 \item{SE}{Book Series Title}
 \item{BN}{ISBN}
+\item{WE}{WE}
+\item{EA}{EA}
+\item{EF}{EF}
 \item{DB}{Database}
 \item{AU_UN}{Author's Affiliations (disambiguated)}
 \item{AU1_UN}{Corresponding Author's Affiliation (disambiguated)}
 \item{AU_UN_NR}{Not Recognized Affiliations}
 \item{SR_FULL}{Short Full-Reference}
 \item{SR}{Short Reference}
+\item{Age}{Publication Age}
+\item{TCpY}{Total Citations per Year}
+\item{NTC}{Normalized Total Citations}
 }
 }
 \source{
-\url{https://www.webofknowledge.com}
+\url{Bibliometrix data frame from WoS https://www.webofknowledge.com}
 }
 \description{
 A collection of Articles about the use of bibliometric approaches in business and management disciplines\cr
-Period: 1985 - 2018\cr
+Period: 1985 - 2020\cr
 Database: \href{https://www.webofknowledge.com}{Clarivate Analytics Web of Science}\cr
 }

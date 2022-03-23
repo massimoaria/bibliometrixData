@@ -2,7 +2,7 @@
 #'
 #' A collection of Articles about the use of bibliometric approaches in business and management disciplines\cr
 #' Period: 1985 - 2020\cr
-#' Database: \href{https://www.webofknowledge.com}{Clarivate Analytics Web of Science}\cr
+#' Database: \href{https://www.webofscience.com/}{Clarivate Analytics Web of Science}\cr
 #'
 #' @format A data frame with 889 rows and 70 variables:
 #' \describe{
@@ -77,6 +77,6 @@
 #' \item{TCpY}{Total Citations per Year}
 #' \item{NTC}{Normalized Total Citations}
 #' }
-#' @source \url{Bibliometrix data frame from WoS https://www.webofknowledge.com}
+#' @source \url{Bibliometrix data frame from WoS https://www.webofscience.com/}
 #' @name management
 NULL

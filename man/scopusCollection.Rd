@@ -24,11 +24,11 @@ A data frame with 487 rows and 15 variables:
 }
 }
 \source{
-\url{https://www.scopus.com}
+Scopus
 }
 \description{
 Manuscripts including the term "bibliometrics" in the title.\cr
 Period: 1975 - 2017\cr
-Database: \href{https://www.scopus.com}{SCOPUS}\cr
+Database: Scopus\cr
 Format: bibtex\cr
 }

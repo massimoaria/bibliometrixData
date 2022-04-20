@@ -2,7 +2,7 @@
 #'
 #' All manuscripts published by Eugene Garfield.\cr
 #' Period: 1954 - 2014\cr
-#' Database: \href{https://www.scopus.com}{SCOPUS source}\cr
+#' Database: SCOPUS source\cr
 #'
 #' @format A data frame with 147 rows and 15 variables:
 #' \describe{
@@ -22,6 +22,6 @@
 #' \item{UT}{Unique Article Identifier}
 #' \item{DB}{Database}
 #' }
-#' @source \url{https://www.scopus.com}
+#' @source Scopus
 #' @name garfield
 NULL

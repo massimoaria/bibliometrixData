@@ -2,7 +2,7 @@
 % Please edit documentation in R/isiCollection.R
 \name{isiCollection}
 \alias{isiCollection}
-\title{"Bibliometrics" manuscripts from Clarivate Analytics WoS.}
+\title{Bibliometrics manuscripts from Clarivate Analytics WoS.}
 \format{
 A data frame with 329 rows and 16 variables:
 \describe{
@@ -25,11 +25,11 @@ A data frame with 329 rows and 16 variables:
 }
 }
 \source{
-\url{https://www.webofknowledge.com}
+Web of Science
 }
 \description{
 Manuscripts including the term "bibliometrics" in the title.\cr
 Period: 1985 - 2017\cr
-Database: \href{https://www.webofknowledge.com}{Clarivate Analytics Web of Science}\cr
+Database: Clarivate Analytics Web of Science\cr
 Format: bibtex\cr
 }

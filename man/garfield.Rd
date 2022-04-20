@@ -24,10 +24,10 @@ A data frame with 147 rows and 15 variables:
 }
 }
 \source{
-\url{https://www.scopus.com}
+Scopus
 }
 \description{
 All manuscripts published by Eugene Garfield.\cr
 Period: 1954 - 2014\cr
-Database: \href{https://www.scopus.com}{SCOPUS source}\cr
+Database: SCOPUS source\cr
 }

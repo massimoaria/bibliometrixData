@@ -2,9 +2,9 @@
 #'
 #' A collection of Articles about the use of bibliometric approaches in business and management disciplines\cr
 #' Period: 1985 - 2020\cr
-#' Database: \href{https://www.webofscience.com/}{Clarivate Analytics Web of Science}\cr
+#' Database: Clarivate Analytics Web of Science\cr
 #'
-#' @format A data frame with 889 rows and 70 variables:
+#' @format A data frame with 889 rows and 67 variables:
 #' \describe{
 #' \item{PT}{Publication Type (J=Journal; B=Book; S=Series; P=Patent)}
 #' \item{AU}{Author names}
@@ -73,10 +73,7 @@
 #' \item{AU_UN_NR}{Not Recognized Affiliations}
 #' \item{SR_FULL}{Short Full-Reference}
 #' \item{SR}{Short Reference}
-#' \item{Age}{Publication Age}
-#' \item{TCpY}{Total Citations per Year}
-#' \item{NTC}{Normalized Total Citations}
 #' }
-#' @source \url{Bibliometrix data frame from WoS https://www.webofscience.com/}
+#' @source Web of Science
 #' @name management
 NULL

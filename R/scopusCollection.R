@@ -2,7 +2,7 @@
 #'
 #' Manuscripts including the term "bibliometrics" in the title.\cr
 #' Period: 1975 - 2017\cr
-#' Database: \href{https://www.scopus.com}{SCOPUS}\cr
+#' Database: Scopus\cr
 #' Format: bibtex\cr
 #'
 #' @format A data frame with 487 rows and 15 variables:
@@ -23,6 +23,6 @@
 #' \item{UT}{Unique Article Identifier}
 #' \item{DB}{Database}
 #' }
-#' @source \url{https://www.scopus.com}
+#' @source Scopus
 #' @name scopusCollection
 NULL

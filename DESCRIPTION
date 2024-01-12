@@ -13,5 +13,7 @@ Encoding: UTF-8
 Depends: R (>= 3.3.0)
 Suggests: bibliometrix
 LazyData: false
+URL: https://github.com/massimoaria/bibliometrixData
+BugReports:  https://github.com/massimoaria/bibliometrixData/issues
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
